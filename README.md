@@ -17,3 +17,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/Naereen?logo=github&style=plastic)
 
 ![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?logo=github&style=plastic)
+
+![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?logo=github&style=social)
+
+![ GIT Pull requests](https://img.shields.io/github/issues-pr/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mahmudgithub/Django-React-CRUD-Operation) 

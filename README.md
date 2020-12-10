@@ -23,3 +23,8 @@
 ![ GIT Pull requests](https://img.shields.io/github/issues-pr/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mahmudgithub/Django-React-CRUD-Operation) 
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https:// GitHub.com/mahmudgithub/Django-React-CRUD-Operation/) 
+
+
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/mahmudgithub/StrapDown.js/releases/)

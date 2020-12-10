@@ -13,3 +13,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+![GitHub followers](https://img.shields.io/github/followers/Naereen?logo=github&style=plastic)
+
+![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?logo=github&style=plastic)
